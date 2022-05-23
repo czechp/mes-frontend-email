@@ -1,0 +1,28 @@
+.email-section{
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.email-section-list{
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+    width: 90%;
+
+}
+
+.email-info-row{
+    width: 48%;
+    border: 2px solid white;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.email-info-row-delete{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

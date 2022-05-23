@@ -1,0 +1,22 @@
+.form-wrapper{
+    display: flex;
+    justify-content: center;
+    width: 30%;
+    flex-direction: column;
+}
+
+.page-wrapper{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.content-center{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+Button{
+    margin-top: 50px;
+}

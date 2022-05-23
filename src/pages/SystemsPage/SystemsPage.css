@@ -1,0 +1,25 @@
+.system-tile{
+    height: 300px;
+    width: 30%;
+    border: 2px solid white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px 10px 10px 10px;
+ 
+}
+
+.system-tile:hover{
+    border: 2px solid gray;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+
+}
+
+.system-page-content {
+    display: flex;
+    flex-wrap: wrap;
+}

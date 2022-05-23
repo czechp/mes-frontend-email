@@ -1,0 +1,7 @@
+.top-bar{
+    background-color: #232424;
+    min-height: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
